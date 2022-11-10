@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6349400ca886acc644bbebc1"
+  },
+  "name": "Ini barang Baru",
+  "description": "barang baru nich",
+  "price": "5666",
+  "category": "technology",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1665744901/izzvjkldtlhmoopqz37l.jpg",
+      "public_id": "izzvjkldtlhmoopqz37l"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358f0ecd93de480ba816603"
+  },
+  "name": "Gedung Besar",
+  "description": "coba",
+  "price": "5669",
+  "category": "technology",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1666773211/bilgfpl5barli650qx5g.jpg",
+      "public_id": "bilgfpl5barli650qx5g"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635f41d724d080d8023c5375"
+  },
+  "name": "coba dulu",
+  "description": "coba dulu",
+  "price": "68883",
+  "category": "technology",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1667187155/hsst5gmu5s4dzyvmvi3c.jpg",
+      "public_id": "hsst5gmu5s4dzyvmvi3c"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63649986a8cab577f32ecb54"
+  },
+  "name": "Tablet 12 pro",
+  "description": "Ini Tablet Mahal",
+  "price": "8999",
+  "category": "tablets",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1667537280/zq6cejjaciggrafd3zsh.jpg",
+      "public_id": "zq6cejjaciggrafd3zsh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368f4e24add58af8bcb5ef6"
+  },
+  "name": "Test",
+  "description": "Test",
+  "price": "9999",
+  "category": "tablets",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1667822812/fpnsvwdqjhfzzzvudmvc.jpg",
+      "public_id": "fpnsvwdqjhfzzzvudmvc"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369af3b1bd8c54a275acda9"
+  },
+  "name": "Test2",
+  "description": "Test2",
+  "price": "67777",
+  "category": "phones",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1667870518/y5pujnvx933wz2ptrgyi.jpg",
+      "public_id": "y5pujnvx933wz2ptrgyi"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369bc9e311d98cdeff26a26"
+  },
+  "name": "hhh",
+  "description": "hhhh",
+  "price": "99999",
+  "category": "technology",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1667873945/enzvhfzhrzscnrdb4w5k.jpg",
+      "public_id": "enzvhfzhrzscnrdb4w5k"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a501699effb5e8fcdcd18"
+  },
+  "name": "gila",
+  "description": "gila",
+  "price": "4555",
+  "category": "technology",
+  "pictures": [
+    {
+      "url": "http://res.cloudinary.com/ddr4gso17/image/upload/v1667911694/lfxvxa4sn3aqujjusogz.jpg",
+      "public_id": "lfxvxa4sn3aqujjusogz"
+    }
+  ],
+  "__v": 0
+}]

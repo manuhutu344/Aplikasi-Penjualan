@@ -1,0 +1,457 @@
+[{
+  "_id": {
+    "$oid": "635f40f824d080d8023c5367"
+  },
+  "products": {
+    "total": 5669,
+    "count": 1,
+    "6358f0ecd93de480ba816603": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 5669,
+  "count": 1,
+  "date": "2022-10-31",
+  "address": "perumahan gria amban pantai",
+  "country": "indonesia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635f422f24d080d8023c538c"
+  },
+  "products": {
+    "total": 6777,
+    "count": 1,
+    "635f41d724d080d8023c5375": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "Sedang Dikirim",
+  "total": 6777,
+  "count": 1,
+  "date": "2022-10-31",
+  "address": "perumahan griya",
+  "country": "indoneisa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6364959ea8cab577f32ecae8"
+  },
+  "products": {
+    "total": 11332,
+    "count": 2,
+    "6349400ca886acc644bbebc1": 2
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "Sedang Dikirim",
+  "total": 11332,
+  "count": 2,
+  "date": "2022-11-04",
+  "address": "Perumahan Dosen Amban Pantai",
+  "country": "Indonesia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636499b0a8cab577f32ecb6f"
+  },
+  "products": {
+    "total": 44995,
+    "count": 5,
+    "63649986a8cab577f32ecb54": 5
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "Sedang Dikirim",
+  "total": 44995,
+  "count": 5,
+  "date": "2022-11-04",
+  "address": "Sangeng",
+  "country": "Indonesia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63686c970d4b151c6e880cce"
+  },
+  "products": {
+    "total": 8999,
+    "count": 1,
+    "63649986a8cab577f32ecb54": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 8999,
+  "count": 1,
+  "date": "2022-11-07",
+  "address": "Biasa Gaes",
+  "country": "Indonesia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63687e620d4b151c6e880cec"
+  },
+  "products": {
+    "total": 5666,
+    "count": 1,
+    "6349400ca886acc644bbebc1": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 5666,
+  "count": 1,
+  "date": "2022-11-07",
+  "address": "ffff",
+  "country": "ffff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6368f5074add58af8bcb5f05"
+  },
+  "products": {
+    "total": 9999,
+    "count": 1,
+    "6368f4e24add58af8bcb5ef6": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 9999,
+  "count": 1,
+  "date": "2022-11-07",
+  "address": "perumahan",
+  "country": "indonesia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369b8101bd8c54a275acdc2"
+  },
+  "products": {
+    "total": 67777,
+    "count": 1,
+    "6369af3b1bd8c54a275acda9": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 67777,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "gggg",
+  "country": "ggggg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369bc03311d98cdeff26a0c"
+  },
+  "products": {
+    "total": 67777,
+    "count": 1,
+    "6369af3b1bd8c54a275acda9": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 67777,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "ggggggggg",
+  "country": "ggggggg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369bcd5311d98cdeff26a45"
+  },
+  "products": {
+    "total": 99999,
+    "count": 1,
+    "6369bc9e311d98cdeff26a26": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "yyyyy",
+  "country": "yyyyy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369bd98311d98cdeff26a59"
+  },
+  "products": {
+    "total": 99999,
+    "count": 1,
+    "6369bc9e311d98cdeff26a26": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "cccccc",
+  "country": "cccccc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369be7e311d98cdeff26a75"
+  },
+  "products": {
+    "total": 99888,
+    "count": 1,
+    "6369be60311d98cdeff26a61": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99888,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "yyyy",
+  "country": "yyyy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369c89ac8775f2782fcbfcc"
+  },
+  "products": {
+    "total": 8999,
+    "count": 1,
+    "63649986a8cab577f32ecb54": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 8999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "amban pantai",
+  "country": "indonesia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369cbc7c8775f2782fcbff0"
+  },
+  "products": {
+    "total": 67777,
+    "count": 1,
+    "6369af3b1bd8c54a275acda9": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 67777,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "amamamama",
+  "country": "mamamamamamamamamama",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369cfe32baeedec3f660ec9"
+  },
+  "products": {
+    "total": 67777,
+    "count": 1,
+    "6369af3b1bd8c54a275acda9": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 67777,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "alamat",
+  "country": "negara",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369d11e2baeedec3f660ef2"
+  },
+  "products": {
+    "total": 99888,
+    "count": 1,
+    "6369be60311d98cdeff26a61": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99888,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "alamat",
+  "country": "negara",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369d1552baeedec3f660f01"
+  },
+  "products": {
+    "total": 99888,
+    "count": 1,
+    "6369be60311d98cdeff26a61": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99888,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "alamat ajah",
+  "country": "negara ajah",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369d1ae2baeedec3f660f19"
+  },
+  "products": {
+    "total": 9999,
+    "count": 1,
+    "6368f4e24add58af8bcb5ef6": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 9999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "akamat",
+  "country": "negara",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369d3412baeedec3f660f36"
+  },
+  "products": {
+    "total": 99999,
+    "count": 1,
+    "6369bc9e311d98cdeff26a26": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "kkkk",
+  "country": "kkkk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369d4b62baeedec3f660f6e"
+  },
+  "products": {
+    "total": 99999,
+    "count": 1,
+    "6369bc9e311d98cdeff26a26": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "coba",
+  "country": "coba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369d5922baeedec3f660f9c"
+  },
+  "products": {
+    "total": 8999,
+    "count": 1,
+    "63649986a8cab577f32ecb54": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 8999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "ffff",
+  "country": "ffff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369e2bb10a94e152130f970"
+  },
+  "products": {
+    "total": 99888,
+    "count": 1,
+    "6369be60311d98cdeff26a61": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "shipped",
+  "total": 99888,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "bbbbbbbb",
+  "country": "bbbbbbb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369e3669b6d0ab043cda0e6"
+  },
+  "products": {
+    "total": 99999,
+    "count": 1,
+    "6369bc9e311d98cdeff26a26": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "Sedang Dikirim",
+  "total": 99999,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "gggggggggggg",
+  "country": "ggggggggg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369e3b99b6d0ab043cda117"
+  },
+  "products": {
+    "total": 99888,
+    "count": 1,
+    "6369be60311d98cdeff26a61": 1
+  },
+  "owner": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "status": "Sedang Dikirim",
+  "total": 99888,
+  "count": 1,
+  "date": "2022-11-08",
+  "address": "bbbbbbb",
+  "country": "bbbbbbb",
+  "__v": 0
+}]

@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "633e679f997d28c38e664ced"
+  },
+  "name": "nando",
+  "email": "nando@email.com",
+  "password": "$2b$10$BqQpPvg2VlfH2AOH6fYfF.1H20/HzVNEJKd6Diqw8msC6hpgfhS/6",
+  "isAdmin": false,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [],
+  "orders": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63437e81b4f8245e6a3ea5a3"
+  },
+  "name": "Fernando2",
+  "email": "nandoperdos2@gmail.com",
+  "password": "$2b$10$d30wh1Gu5mo24Z75ltQ5LOO40YnwbBZZyczC5ctORwPMpG5ubYy92",
+  "isAdmin": false,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [],
+  "orders": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63437f78b4f8245e6a3ea5ad"
+  },
+  "name": "coba",
+  "email": "coba@gmail.com",
+  "password": "$2b$10$cB88Lim7dCzazSIuNgUV1uTSD72OaUzj55VIocFYMQrQjFy4Vj3pi",
+  "isAdmin": false,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [],
+  "orders": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63437fb2b4f8245e6a3ea5af"
+  },
+  "name": "coba2",
+  "email": "coba2@gmail.com",
+  "password": "$2b$10$FfFZFb1Z.lJEkX92/HeMMuVR0IiTyw23rGnm6tWqyMsx/lkBXhace",
+  "isAdmin": false,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [],
+  "orders": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63438c57fad7a6e0672da214"
+  },
+  "name": "coba3",
+  "email": "coba3@gmail.com",
+  "password": "$2b$10$Hb6QFB3..1Ul/rVL2OJn3OWaqOMOwtcTR6L.ispfhorzBPPOw6Jnq",
+  "isAdmin": false,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [],
+  "orders": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6343900c89044b122e14d761"
+  },
+  "name": "xammp",
+  "email": "xammp@gmail.com",
+  "password": "$2b$10$Qd7NwGH/esxH1lEJ/GBnKu0QlqtSIl0TRa3wLXat9PUj9ru62GKLG",
+  "isAdmin": false,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [],
+  "orders": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634d284ff25724ed9548ab89"
+  },
+  "name": "cariin dong",
+  "email": "cariin@gmail.com",
+  "password": "$2b$10$XBPAGQ7spJkEROvF8GnFBOOGkoUgSiYJyJEq374RfIWextgodDHma",
+  "isAdmin": false,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [
+    {
+      "status": "read",
+      "message": "Pesanan 63686c970d4b151c6e880cce Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876836579"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 63687e620d4b151c6e880cec Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876842327"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6368f5074add58af8bcb5f05 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876946027"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369b8101bd8c54a275acdc2 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876946579"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369bc03311d98cdeff26a0c Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876947646"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369bcd5311d98cdeff26a45 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876948276"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369bd98311d98cdeff26a59 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876949414"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369be7e311d98cdeff26a75 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667876950128"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369c89ac8775f2782fcbfcc Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667877056883"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369cbc7c8775f2782fcbff0 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667877865917"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369cfe32baeedec3f660ec9 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667878901272"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369d11e2baeedec3f660ef2 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667879773645"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369d1552baeedec3f660f01 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667879774769"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369d1ae2baeedec3f660f19 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667879775838"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369d3412baeedec3f660f36 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667879777038"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369d4b62baeedec3f660f6e Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667880163476"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369d5922baeedec3f660f9c Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667880355555"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369e2bb10a94e152130f970 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667883738238"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369e3669b6d0ab043cda0e6 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667883901606"
+        }
+      }
+    },
+    {
+      "status": "read",
+      "message": "Pesanan 6369e3b99b6d0ab043cda117 Sedang Dikirm",
+      "time": {
+        "$date": {
+          "$numberLong": "1667884001063"
+        }
+      }
+    }
+  ],
+  "orders": [
+    {
+      "$oid": "635f40f824d080d8023c5367"
+    },
+    {
+      "$oid": "635f422f24d080d8023c538c"
+    },
+    {
+      "$oid": "6364959ea8cab577f32ecae8"
+    },
+    {
+      "$oid": "636499b0a8cab577f32ecb6f"
+    },
+    {
+      "$oid": "63686c970d4b151c6e880cce"
+    },
+    {
+      "$oid": "63687e620d4b151c6e880cec"
+    },
+    {
+      "$oid": "6368f5074add58af8bcb5f05"
+    },
+    {
+      "$oid": "6369b8101bd8c54a275acdc2"
+    },
+    {
+      "$oid": "6369bc03311d98cdeff26a0c"
+    },
+    {
+      "$oid": "6369bcd5311d98cdeff26a45"
+    },
+    {
+      "$oid": "6369bd98311d98cdeff26a59"
+    },
+    {
+      "$oid": "6369be7e311d98cdeff26a75"
+    },
+    {
+      "$oid": "6369c89ac8775f2782fcbfcc"
+    },
+    {
+      "$oid": "6369cbc7c8775f2782fcbff0"
+    },
+    {
+      "$oid": "6369cfe32baeedec3f660ec9"
+    },
+    {
+      "$oid": "6369d11e2baeedec3f660ef2"
+    },
+    {
+      "$oid": "6369d1552baeedec3f660f01"
+    },
+    {
+      "$oid": "6369d1ae2baeedec3f660f19"
+    },
+    {
+      "$oid": "6369d3412baeedec3f660f36"
+    },
+    {
+      "$oid": "6369d4b62baeedec3f660f6e"
+    },
+    {
+      "$oid": "6369d5922baeedec3f660f9c"
+    },
+    {
+      "$oid": "6369e2bb10a94e152130f970"
+    },
+    {
+      "$oid": "6369e3669b6d0ab043cda0e6"
+    },
+    {
+      "$oid": "6369e3b99b6d0ab043cda117"
+    }
+  ],
+  "__v": 52
+},{
+  "_id": {
+    "$oid": "6367a95438dbffedcd8b65a6"
+  },
+  "name": "Fernando",
+  "email": "nandoperdos@gmail.com",
+  "password": "$2b$10$WyF6epnHPVcVT3R/VrquZO/KHkmSudgw/X6fFNV0mXfr0/88X4MUK",
+  "isAdmin": true,
+  "cart": {
+    "total": 0,
+    "count": 0
+  },
+  "notifications": [],
+  "orders": [],
+  "__v": 3
+}]
